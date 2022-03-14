@@ -1,0 +1,62 @@
+.App header select {
+  width: 200px;
+  margin: 20px auto;
+}
+header {
+  background-color: blanchedalmond;
+  width: 100%;
+  padding: 1rem;
+  text-align: center;
+}
+header h2 {
+  color: #EC6E4C;
+}
+h5 {
+  color: rgb(255, 255, 255);
+  background-color: rgb(224, 131, 131);
+  padding: 0.3rem;
+  border-radius: 2px;
+  width: 170px;
+  text-align: center;
+  margin: 0 auto;
+}
+.center {
+  justify-content: center;
+  align-items: center;
+  font-size: 18px;
+}
+
+.spinner-border {
+  margin-top: 10px;
+  margin-left: 50%;
+  margin-bottom: 0;
+}
+.card-body {
+  text-align: center;
+  font-size: 18px;
+}
+.card-text {
+  margin-right: 10px;
+}
+.card {
+  margin-right: 10px;
+  margin-top: 10px;
+}
+.card-title {
+  text-align: center;
+}
+.flex {
+  display: flex;
+}
+
+.main {
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 30px;
+}
+.forecasts {
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
